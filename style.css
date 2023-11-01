@@ -1,0 +1,142 @@
+*{
+    margin: 0%;
+    padding: 0;
+      
+}
+
+header{
+    height: 4em;
+    margin-bottom: 40px;
+    background-color: darkslategrey;
+}
+
+.logo{
+    float: left;
+    margin-top: 5px;
+    margin-left: 20px;
+}
+
+body{
+    border: 10px solid black;
+    background-color: darkslategrey;
+}
+
+.main{
+    margin-left: 8%;
+    margin-right: 8%;
+    color: white;   
+}
+
+.pp{
+    float: left;
+    margin-left: 20%;
+    margin-right: 0%;
+    margin-right: 60px;
+    height: fit-content;
+}
+
+nav a{
+
+    margin: 4px;
+    padding: 5px;
+    margin-top: 15px;
+    text-decoration: none;
+    float: right;
+    color:white;
+}
+
+nav a:hover{
+background-color: white;
+color: black;
+}
+
+aside{
+    font-size: larger;
+    margin-top: 30px;
+    margin-bottom: 15%;
+    color: rgb(236, 239, 225);   
+}
+
+aside h1{
+    font-size:xx-large;
+    margin-bottom: 10px;
+}
+
+aside p{
+font-size:medium ;
+margin-left:15%;
+margin-right: 15%;
+line-height: 30px;
+}
+
+
+
+.jobs1{
+    float: left;
+    padding: 8px;
+    line-height: 30px;
+    border-radius: 20px;
+    background-color: beige;
+    color: darkslategrey;    
+}
+
+.jobs2{
+    float: left;
+    padding: 8px;
+    line-height: 30px;
+    border-radius: 20px;
+    margin-top: 30px;
+    margin-left: 5px;
+    background-color: beige;
+    color: darkslategray;
+}
+
+.jobs3{
+    float: right;
+    padding: 8px;
+    line-height: 30px;
+    border-radius: 20px;
+    margin-top: 10px;
+    margin-left: 5px;
+    background-color: beige;
+    color: darkslategray;
+}
+
+.edu{
+
+    margin-top: 130px;
+    line-height: 30px;  
+}
+
+.acc{
+     border: 2px solid white;
+    float: left;
+    line-height: 30px;
+    border-radius: 20px;
+    background-color: beige;
+    color: darkslategray;
+}
+
+.cert{
+    border: 2px solid white;
+    float: right;
+    margin-left: 20px;
+    margin-top: -18px;
+    line-height: 30px;
+    border-radius: 20px;
+    background-color: beige;
+    color: darkslategray;
+    
+}
+
+.cont{
+    margin-top: 200px;
+    margin-bottom: 100px;
+    text-align: left;
+    
+}
+
+li{
+    margin-top: 5px;
+}
+
